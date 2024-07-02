@@ -20,6 +20,7 @@ This is an [NVIDIA AI Workbench](https://www.nvidia.com/en-us/deep-learning-ai/s
     * 4-bit, 8-bit, and no quantization options are supported for locally running models served by TGI.
     * Other models may be specified to run locally using their Hugging Face tag.
     * Locally-running microservice option is supported for Docker users only.
+* ## Comment 2024-07-02 // ChatLLM
 
 ### Table 1 Default Supported Models by Inference Mode
 
