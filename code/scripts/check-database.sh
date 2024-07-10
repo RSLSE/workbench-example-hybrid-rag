@@ -12,5 +12,5 @@ while [ $(curl -o /dev/null -s -w "%{http_code}" "http://localhost:19530/v1/vect
       fi
       
       echo "Polling inference server. Awaiting status 200; trying again in 10s. "
-      sleep 20
+      sleep 40
     done 
